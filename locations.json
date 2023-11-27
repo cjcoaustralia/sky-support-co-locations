@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.9476706,
+                    -27.1053809
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Morayfield",
+                "storeid": "1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.9515862,
+                    -27.0849748
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Caboolture",
+                "storeid": "2"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.988406,
+                    -27.3016114
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Strathpine",
+                "storeid": "3"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0054444,
+                    -27.220025
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "North Lakes",
+                "storeid": "4"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.9926509,
+                    -27.2507456
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "service",
+                "name": "Kallangur",
+                "storeid": "5"
+            }
+        }
+    ]
+}
